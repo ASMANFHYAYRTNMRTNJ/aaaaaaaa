@@ -89,7 +89,7 @@ local Themes = {
         ItemUIStrokeSelected = Color3.fromRGB(90, 0, 255),
         SelectedTabFrame = Color3.fromRGB(53, 64, 84),
         ItemFrame = Color3.fromRGB(32, 37, 49),
-        HoverItemFrame = Color3.fromRGB(43, 50, 67),
+        HoverItemFrame = Color3.fromRGB(22, 24, 36),
         DropdownIcon = Color3.fromRGB(175, 175, 175),
         SectionUIStroke = Color3.fromRGB(35, 41, 54),
         MainUIStroke = Color3.fromRGB(54, 65, 85),
@@ -107,7 +107,7 @@ local Themes = {
         ToggleInnerEnabled = Color3.fromRGB(255, 211, 105),
         ContainerHolder = Color3.fromRGB(25, 32, 43),
         HighlightUIStroke = Color3.fromRGB(79, 94, 124),
-        Highlight = Color3.fromRGB(255, 229, 121)
+        Highlight = Color3.fromRGB(90, 0, 255)
     }
 }
 
